@@ -28,13 +28,19 @@ h2 {
 #bio-image {
     float: left;
     width: 200px;
+    margin: 10px;
 }
 
 #contact-info {
     float: left;
+    width: 30%;
 }
 
 #main-bio {
     float: left;
     width: 70%;
+}
+
+a {
+    color: #d21034;
 }
